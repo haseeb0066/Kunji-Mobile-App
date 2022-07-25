@@ -1,0 +1,108 @@
+const CommonText = {
+  ENTER_EMAIL: 'Enter your email password to sign in',
+  CREATE_NEW_ACCOUNT: 'Create a new account',
+  NEW_USER: "Don't have an account? ",
+  OLD_USER: 'Already have an account? ',
+  SIGN_IN: 'Sign In',
+  SIGN_UP: 'Sign Up',
+  OTP_VERIFICATION: 'OTP VERIFICATION',
+  ENTER_OTP: 'Enter OTP',
+  VISITOR_REGIS:'Visitor Registration',
+  DIDNOT_RECEIVE_OTP: "Didn't receive OTP? ",
+  WELCOME_STUK: 'WELCOME STUK',
+  LOADING_TEXT_SPLASH: 'Loading...',
+  DONT_RECV_OTP: 'Didn’t receive OTP? ',
+  UTILITY_BILL_PAYMENT: 'Utility Bill Payment',
+  ELECTRICITY_SERVICE_PROVIDER: 'Electricity Service Provider',
+  RESET_PASS_TEXT:
+    'Enter the email associated with your account and we’ll send an email with instructions to reset your password.',
+  CHCK_EMAIL_TEXT:
+    'We have sent a password recover instructions to your email.',
+  Worker_Registration: 'Worker Registration',
+  Domestic_Worker: 'Domestic Worker',
+  ////GATE PASS/////
+  GATE_PASS: 'Gate Pass',
+  NEW_GATE_PASS_REQUEST: 'NEW GATE PASS REQUEST',
+  Apply_Gate_Pass_PopUp: 'Gate Pass hass been Send For Approval Successfull!',
+  Cancel_PopUp: 'Gate Pass Rejected!',
+  View_Gate_Pass_Details: 'View gate pass details',
+  ///DASHBOARD///
+  RESIDENT_SERVICES: 'Resident Services',
+  VISITOR_MANAGEMENT: 'Visitor Management',
+  DELIVERY_BOOKING: 'Delivery Booking',
+  ENTRY_EXIT_CONTROL: 'Entry / Exit Control',
+  COMPLAINTS: 'Complaints',
+  SERVANT_REGISTRATION: 'Servant Registration',
+  PANIC_ALERTS: 'Panic Alerts',
+  PAYMENTS: 'Payments',
+  UTILITY_BILL_PAYMENT: 'Utility Bill Payment',
+  RENT_PAYMENT: 'Rent Payment',
+  SOCIETY_CHARGES: 'Society Charges',
+  DIGITAL_WALLET: 'Digital Wallet',
+  PAYMENT_HISTROY: 'Payment History',
+  VIEW_BILLS: 'View Bills',
+  NOTICE_BOARD_POLL: 'Notices Board / Poll',
+  NOTICES: 'Notices',
+  POLL: 'Poll',
+  ///Visitor Management///
+  VISITOR_REGISTRATION: 'Visitor Registration',
+  BOOK_VISITOR_PARKING: 'Book Visitor Parking',
+  ///Vistor Registration///
+  ADD_NEW_VISITOR: 'ADD NEW VISITOR',
+  ///Vistor Registration Input Label///
+  VISITOR_NAME: ' Visitor`s Name',
+  MOBILE_NO: 'Mobile No.',
+  EMAIL: 'Email',
+  ARRIVAL_DATE: 'Arrival Date',
+  ARRIVAL_TIME: 'Arrival Time',
+  LEAVING_DATE: 'Leaving Date',
+  LEAVING_TIME: 'Leaving Time',
+  SUBMIT: 'SUBMIT',
+  PIN_CODE: 'Pin CODE',
+  ///Manage my family members///
+  MANAGE_MY_FAM_MEMB: 'Manage my family members',
+  ADD_NEW_FAM_MEMB: 'Add new family member',
+  ///Add new family member Input Label///
+  NAME: 'Name',
+  DATE_OF_BIRTH: 'Date Of Birth',
+  MOMILE_NO: 'Mobile No.',
+  SELECT_PROPERTY: 'Select Property ',
+  ALLOCATE_PARKING: 'Allocate Parking',
+  VEHICLE_REG_NO: 'Vehicle reg No.',
+  SAVE: 'SAVE',
+  VIEW_FAM_DETAILS: 'View family details',
+  DONE: 'DONE',
+  ///Manage my tenants///
+  MANAGE_MY_TENANTS: 'Manage my tenants',
+  ADD_NEW_TENANT: 'Add new Tenant',
+  ///Add new Tenant Input Label///
+  TENANCY_START_DATE: 'Tenancy Start Date',
+  TENANCY_END_DATE: 'Tenancy End Date',
+  VIEW_TENANT_DETAILS: 'View family details',
+  ///Manage my vehicles///
+  MANAGE_MY_VEHICLE: 'Manage My Vehicles',
+  ADD_NEW_VEHICLES: 'Add New Vehicles',
+  ///Add new Vehicles Input Label///
+  REGISTR_NO_OF_VEHI: 'Registration No. Of Vehicle',
+  MAKE: 'Make',
+  MODEL: 'Model',
+  COLOR: 'Color',
+  YEAR: 'Year',
+  VIEW_VEHICLE_DETAILS: 'View vehicle details',
+  ///Manage my properties///
+  MANAGE_MY_PROPERTIES: 'Manage my properties',
+  ADD_NEW_PROPERTIES: 'Add new Properties',
+  ///Add new Properties Input Label///
+  SELECT_CITY: 'Select City',
+  SELECT_SOCIETY: 'Select Society',
+  SELECT_BUILDING: 'Select Building',
+  SELECT_FLAT_NO: 'Select Flat No.',
+  RESIDENTIAL_STATUE: 'Residential Status',
+  CHECK_BOX_TEXT: 'I Agree to the Kunji Terms of services and Privacy Policy,',
+  VIEW_PROPERTIEY_DETAILS: 'View propertiy details',
+  //Bill Payment
+  REVIEW_BILL_PAYMENT: 'Review  bill payment',
+  //Forgot Password
+  FORGOT_PASSWORD: 'Forgot Password',
+};
+export default CommonText;

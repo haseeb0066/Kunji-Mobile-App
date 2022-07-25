@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367968736838",
+    "project_id": "kunjiapp-95c90",
+    "storage_bucket": "kunjiapp-95c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367968736838:android:e56b81b85439732b031c47",
+        "android_client_info": {
+          "package_name": "com.kunji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367968736838-6lfpdc4gifit0a2ulc3h77ugkaovd4dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h5Ew8j0MS8DSNwjTBWYZCflTszBNRuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367968736838-6lfpdc4gifit0a2ulc3h77ugkaovd4dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

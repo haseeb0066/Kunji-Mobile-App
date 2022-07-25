@@ -1,0 +1,37 @@
+const images = {
+  logout: require('./images/logout.png'),
+  arrow_back: require('./images/arrow_back.png'),
+  add_image: require('./images/add_image.png'),
+  cross_icon: require('./images/cross.png'),
+  document_icon: require('./images/document_icon.png'),
+  xls_icon: require('./images/xls_icon.png'),
+  text_icon: require('./images/text_icon.png'),
+
+  //KUNJI//
+  splash: require('./images/splash_bg.png'),
+  appBackgroundLight: require('./images/appBackgroundLight.png'),
+  chats_icon_logo: require('./images/chats_icon_logo.png'),
+  chats_icon_logo: require('./images/chats_icon_logo.png'),
+  vehical_icon: require('./images/vehicalicon.png'),
+  caricon: require('./images/caricon.png'),
+  carimag: require('./images/carimag.png'),
+  formBG: require('./images/formBG.png'),
+  familyMembersFormBg: require('./images/familyMembersFormBg.png'),
+  home_card_bg_img: require('./images/home_card_bg_img.png'),
+  notification_bell_icon: require('./images/notification_bell_icon.png'),
+  profileUserImage: require('./images/profileUserImage.png'),
+  deliveryBoy: require('./images/deliveryBoy.jpg'),
+  peroperty: require('./images/property.png'),
+  peroperty1: require('./images/property1.png'),
+  peroperty2: require('./images/property2.png'),
+  peroperty3: require('./images/property3.png'),
+  arrow_down: require('./images/arrow-down.png'),
+  cnic: require('./images/cnic.jpeg'),
+  docImage: require('./images/docImage.png'),
+  carPlaceHoderImage: require('./images/carimg.png'),
+  pdfIcon: require('./images/pdf.png'),
+  bgImgforCard: require('./images/bgImage.png'),
+  imagePlaceholder: require('./images/placeholder.png'),
+};
+
+export default images;

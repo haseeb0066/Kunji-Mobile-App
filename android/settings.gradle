@@ -1,0 +1,9 @@
+rootProject.name = 'KUNJI'
+include ':react-native-push-notification'
+include ':react-native-community-geolocation'
+project(':react-native-push-notification').projectDir = file('../node_modules/react-native-push-notification/android')
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-svg/android')
+project(':react-native-community-geolocation').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/geolocation/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
